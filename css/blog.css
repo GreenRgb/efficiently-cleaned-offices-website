@@ -76,6 +76,10 @@
     color: #4b4e52;
 }
 
+.all-articles img {
+    padding-top: 10px;
+}
+
 .bg-sec-image {
     margin-top: 30px;
 }
