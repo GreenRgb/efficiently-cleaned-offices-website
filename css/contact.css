@@ -177,6 +177,11 @@ button {
     margin-top: 20px
 }
 
+.col .contact-header h1 {
+    font-size: 1.1rem;
+    font-weight: 400;
+}
+
 .footer {
     padding: 20px 0;
     color: #f0f9ff;
